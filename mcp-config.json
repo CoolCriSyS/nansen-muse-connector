@@ -1,0 +1,1 @@
+{"mcpServers":{"nansen-smart-money":{"headers":{"NANSEN-API-KEY":"${NANSEN_API_KEY}"},"transport":"streamable-http","url":"https://mcp.nansen.ai/ra/mcp"}}}
